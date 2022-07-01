@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BelajarCompose</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_modifier">Modifier</string>
+    <string name="title_activity_image_card">ImageCard</string>
+    <string name="title_activity_styling_text">StylingText</string>
+    <string name="title_activity_state">State</string>
 </resources>
