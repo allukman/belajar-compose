@@ -5,4 +5,5 @@
     <string name="title_activity_image_card">ImageCard</string>
     <string name="title_activity_styling_text">StylingText</string>
     <string name="title_activity_state">State</string>
+    <string name="title_activity_snackbars">snackbars</string>
 </resources>
