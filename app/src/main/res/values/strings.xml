@@ -9,4 +9,5 @@
     <string name="title_activity_list">List</string>
     <string name="title_activity_constraints">Constraints</string>
     <string name="title_activity_simple_animation">SimpleAnimation</string>
+    <string name="title_activity_circular_progress_bar">CircularProgressBar</string>
 </resources>
