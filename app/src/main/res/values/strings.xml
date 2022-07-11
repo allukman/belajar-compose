@@ -7,4 +7,6 @@
     <string name="title_activity_state">State</string>
     <string name="title_activity_snackbars">snackbars</string>
     <string name="title_activity_list">List</string>
+    <string name="title_activity_constraints">Constraints</string>
+    <string name="title_activity_simple_animation">SimpleAnimation</string>
 </resources>
